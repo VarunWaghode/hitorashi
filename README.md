@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hitorashi(varun yatindra waghode)
+- 👋 Hi, I’m @varunwaghode(varun yatindra waghode)
 - 👀 I’m interested in ethical hacking,coding,games
 - 🌱 I’m currently learning basic to advance programming languages 
 - 💞️ I’m looking to collaborate on live projects
